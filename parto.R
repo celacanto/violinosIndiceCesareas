@@ -1,5 +1,3 @@
-setwd("~/Dropbox/parto")
-
 library(gdata)
 library(caroline)
 
